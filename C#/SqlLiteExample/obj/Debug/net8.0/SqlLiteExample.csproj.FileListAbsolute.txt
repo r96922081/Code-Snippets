@@ -29,10 +29,6 @@ D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\win\lib\netc
 D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
 D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
 D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
-D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\linux-x64\native\libsqlite3.so
-D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\osx-x64\native\libsqlite3.dylib
-D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\win7-x64\native\sqlite3.dll
-D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\win7-x86\native\sqlite3.dll
 D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
 D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
 D:\Github\Code-Snippets\C#\SqlLiteExample\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll

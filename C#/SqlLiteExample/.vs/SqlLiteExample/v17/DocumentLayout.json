@@ -23,7 +23,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SqlLiteExample",
+              "Title": "SqlLiteExample.csproj",
               "DocumentMoniker": "D:\\Github\\Code-Snippets\\C#\\SqlLiteExample\\SqlLiteExample.csproj",
               "RelativeDocumentMoniker": "SqlLiteExample.csproj",
               "ToolTip": "D:\\Github\\Code-Snippets\\C#\\SqlLiteExample\\SqlLiteExample.csproj",

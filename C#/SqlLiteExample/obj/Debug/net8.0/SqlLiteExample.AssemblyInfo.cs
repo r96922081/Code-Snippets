@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqlLiteExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c4ad1cbc897516ad39ddbf762604eec4df6566d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfc2bfcd4cb28e32043d9e1a7dc2c2a5c6062df0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlLiteExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlLiteExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
