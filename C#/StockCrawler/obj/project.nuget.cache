@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JabvwiolzBetdlpHvx61CFKv8ridPUh435R4jTbjL6I7Uax6hJhqQOeNK6x8Khq7L/f3q3FI/g43c2q6qkzmsA==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\Code-Snippets\\C#\\StockCrawler\\StockCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mojo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
